@@ -3,7 +3,7 @@
 I'm a Senior Build Engineer in Dublin. Currently, I'm working for Black Shamrock, compiling videogames and monitor infrastructures. I enjoy coding for fun and making toy projects.
 
   <p>
-      <img alt="Bash" src="https://img.shields.io/badge/Manuel_Iglesias_García-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+      <a href="https://www.linkedin.com/in/manuel-iglesias-garc%C3%ADa/"><img alt="Bash" src="https://img.shields.io/badge/Manuel_Iglesias_García-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   </p>
 
 <h2>🛠️ My set of tools</h2>
