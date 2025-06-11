@@ -78,21 +78,25 @@ I'm a Senior Build Engineer in Dublin. Currently, I'm working for Black Shamrock
    <img alt="The Outer Worlds: Spacer's Choice Edition" src="https://img.shields.io/badge/The Outer Worlds: Spacer's Choice Edition-grey?style=for-the-badge&logo=unrealengine">
    </a>
    <br/>
-   <a href="https://twitter.com/CDPROJEKTRED/status/1577317916130811904">
-   <img width="375" height="375" src="https://assets-prd.ignimgs.com/2022/10/08/thewitchersirius-1665250134186.jpg?width=300&crop=1%3A1%2Csmart&auto=webp&dpr=2"/>
+   <a href="https://elderscrolls.bethesda.net/es-ES/oblivion-remastered">
+   <img width="375" height="375"  src="https://assets-prd.ignimgs.com/2025/04/22/elderscrolls-1745339694084.jpg?width=300&crop=1%3A1%2Csmart&auto=webp" />
    <br/>
-   <img alt="The Witcher: Sirius" src="https://img.shields.io/badge/The Witcher: Sirius-grey?style=for-the-badge&logo=unrealengine"/>
+   <img alt="The Elder Scrolls IV: Oblivion Remastered" src="https://img.shields.io/badge/The Elder Scrolls IV: Oblivion Remastered-grey?style=for-the-badge&logo=unrealengine">
    </a>
    <br/>
-   <a href=""><img alt="Unreal Engine AAA 1" src="https://img.shields.io/badge/Unannounce AAA Unreal Engine title-grey?style=for-the-badge&logo=unrealengine">
-
-  <h3>🎮 Games that I am working in </h3>
-   <a href="https://www.marvel.com/games/marvel-1943-rise-of-hydra">
+   <a href="https://youtu.be/Lb2wwEx6DVw">
    <img width="375" height="375" src="https://assets-prd.ignimgs.com/2024/03/20/image-from-ios-1710953733020.jpg?width=300&crop=1%3A1%2Csmart&auto=webp&dpr=2"/>
    <br/>
    <img alt="Marvel 1943: Rise of Hydra" src="https://img.shields.io/badge/Marvel 1943: Rise of Hydra-grey?style=for-the-badge&logo=unrealengine"/>
    </a>
    <br/>
+   <a href="https://voyagersofnera.com/">
+   <img width="375" height="375" src="https://assets-prd.ignimgs.com/2023/12/07/voyagers-of-nera-button-1701910169779.jpg?width=300&crop=1%3A1%2Csmart&auto=webp" />
+   <br/>
+   <img alt="Voyagers of Nera" src="https://img.shields.io/badge/Voyagers of Nera-grey?style=for-the-badge&logo=unrealengine">
+   </a>
+  <h3>🎮 Games that I am working in </h3>
+
    <br/>
    <a href=""><img alt="Unreal Engine AAA 2" src="https://img.shields.io/badge/Unannounce AAA Unreal Engine title-grey?style=for-the-badge&logo=unrealengine">
    <br/>
