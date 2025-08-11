@@ -97,6 +97,12 @@ I'm a Senior Build Engineer in Dublin. Currently, I'm working for Black Shamrock
    </a>
   <h3>🎮 Games that I am working in </h3>
 
+   <a href="https://www.ign.com/games/the-witcher-codename-sirius">
+   <img width="375" height="375" src="https://assets-prd.ignimgs.com/2022/10/08/thewitchersirius-1665250134186.jpg?width=300&crop=1%3A1%2Csmart&auto=webp&dpr=2"/>
+   <br/>
+
+
+   <img alt="The Witcher: Sirius" src="https://img.shields.io/badge/The Witcher: Sirius-grey?style=for-the-badge&logo=unrealengine"/>
    <br/>
    <a href=""><img alt="Unreal Engine AAA 2" src="https://img.shields.io/badge/Unannounce AAA Unreal Engine title-grey?style=for-the-badge&logo=unrealengine">
    <br/>
