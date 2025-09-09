@@ -1,6 +1,8 @@
 ### <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hello there
 
-I'm a Senior Build Engineer in Dublin. Currently, I'm working for Black Shamrock, compiling videogames and monitor infrastructures. I enjoy coding for fun and making toy projects.
+I’m a Senior DevOps Engineer based in Dublin, currently working at Black Shamrock. My role involves infrastructure automation, container orchestration, and build pipeline optimization to support large-scale video game development. I design and maintain Kubernetes clusters, manage infrastructure-as-code deployments (Terraform/Helm), and implement CI/CD pipelines to streamline build and release processes. I’m also responsible for observability, monitoring, and incident response, ensuring high availability and performance across development and production environments.
+
+Beyond my professional work, I enjoy coding toy projects, exploring new DevOps tooling, and experimenting with cloud-native technologies to push my technical expertise further.
 
   <p>
       <a href="https://www.linkedin.com/in/manuel-iglesias-garc%C3%ADa/"><img alt="Bash" src="https://img.shields.io/badge/Manuel_Iglesias_García-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -70,19 +72,21 @@ I'm a Senior Build Engineer in Dublin. Currently, I'm working for Black Shamrock
       <img alt="Grafana" src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white">
       <img alt="Grafana" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white">
   </p>
+  <h3>🎮 Games that I am working in </h3>
+
+   <a href="https://www.ign.com/games/the-witcher-codename-sirius">
+   <img width="375" height="375" src="https://assets-prd.ignimgs.com/2022/10/08/thewitchersirius-1665250134186.jpg?width=300&crop=1%3A1%2Csmart&auto=webp&dpr=2"/>
+   <br/>
+   <img alt="The Witcher: Sirius" src="https://img.shields.io/badge/The Witcher: Sirius-grey?style=for-the-badge&logo=unrealengine"/>
+   <br/>
 
   <h3>🎮 Games that I have worked in </h3>
-   <a href="https://store.steampowered.com/app/1920490/The_Outer_Worlds_Spacers_Choice_Edition/">
-   <img width="375" height="375" src="https://assets-prd.ignimgs.com/2023/02/27/outerworldsspacer-1677516085866.jpg?width=300&crop=1%3A1%2Csmart&auto=webp&dpr=2">
-   <br/>
-   <img alt="The Outer Worlds: Spacer's Choice Edition" src="https://img.shields.io/badge/The Outer Worlds: Spacer's Choice Edition-grey?style=for-the-badge&logo=unrealengine">
-   </a>
-   <br/>
    <a href="https://elderscrolls.bethesda.net/es-ES/oblivion-remastered">
    <img width="375" height="375"  src="https://assets-prd.ignimgs.com/2025/04/22/elderscrolls-1745339694084.jpg?width=300&crop=1%3A1%2Csmart&auto=webp" />
    <br/>
    <img alt="The Elder Scrolls IV: Oblivion Remastered" src="https://img.shields.io/badge/The Elder Scrolls IV: Oblivion Remastered-grey?style=for-the-badge&logo=unrealengine">
    </a>
+   <br/>
    <br/>
    <a href="https://youtu.be/Lb2wwEx6DVw">
    <img width="375" height="375" src="https://assets-prd.ignimgs.com/2024/03/20/image-from-ios-1710953733020.jpg?width=300&crop=1%3A1%2Csmart&auto=webp&dpr=2"/>
@@ -90,20 +94,17 @@ I'm a Senior Build Engineer in Dublin. Currently, I'm working for Black Shamrock
    <img alt="Marvel 1943: Rise of Hydra" src="https://img.shields.io/badge/Marvel 1943: Rise of Hydra-grey?style=for-the-badge&logo=unrealengine"/>
    </a>
    <br/>
+   <br/>
+   <a href="https://store.steampowered.com/app/1920490/The_Outer_Worlds_Spacers_Choice_Edition/">
+   <img width="375" height="375" src="https://assets-prd.ignimgs.com/2023/02/27/outerworldsspacer-1677516085866.jpg?width=300&crop=1%3A1%2Csmart&auto=webp&dpr=2">
+   <br/>
+   <img alt="The Outer Worlds: Spacer's Choice Edition" src="https://img.shields.io/badge/The Outer Worlds: Spacer's Choice Edition-grey?style=for-the-badge&logo=unrealengine">
+   </a>
+   <br/>
+   <br/>
    <a href="https://voyagersofnera.com/">
    <img width="375" height="375" src="https://assets-prd.ignimgs.com/2023/12/07/voyagers-of-nera-button-1701910169779.jpg?width=300&crop=1%3A1%2Csmart&auto=webp" />
    <br/>
    <img alt="Voyagers of Nera" src="https://img.shields.io/badge/Voyagers of Nera-grey?style=for-the-badge&logo=unrealengine">
    </a>
-  <h3>🎮 Games that I am working in </h3>
 
-   <a href="https://www.ign.com/games/the-witcher-codename-sirius">
-   <img width="375" height="375" src="https://assets-prd.ignimgs.com/2022/10/08/thewitchersirius-1665250134186.jpg?width=300&crop=1%3A1%2Csmart&auto=webp&dpr=2"/>
-   <br/>
-
-
-   <img alt="The Witcher: Sirius" src="https://img.shields.io/badge/The Witcher: Sirius-grey?style=for-the-badge&logo=unrealengine"/>
-   <br/>
-   <a href=""><img alt="Unreal Engine AAA 2" src="https://img.shields.io/badge/Unannounce AAA Unreal Engine title-grey?style=for-the-badge&logo=unrealengine">
-   <br/>
-   <a href=""><img alt="Unreal Engine AAA 3" src="https://img.shields.io/badge/Unannounce AAA Unreal Engine title-grey?style=for-the-badge&logo=unrealengine">
